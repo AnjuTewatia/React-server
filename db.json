@@ -1,65 +1,177 @@
-
 {
-    "users": [
-      {
-        "id": 1,
-        "name": "Gertrudis Tatterton",
-        "age": 18,
-        "email": "gtatterton0@ehow.com"
-      },
-      {
-        "id": 2,
-        "name": "Gail Newbatt",
-        "age": 53,
-        "email": "gnewbatt1@un.org"
-      },
-      {
-        "id": 3,
-        "name": "Walliw Wilstead",
-        "age": 49,
-        "email": "wwilstead2@tripadvisor.com"
-      },
-      {
-        "id": 4,
-        "name": "Abran Proback",
-        "age": 29,
-        "email": "aproback3@theglobeandmail.com"
-      },
-      {
-        "id": 5,
-        "name": "Roda Chappelow",
-        "age": 31,
-        "email": "rchappelow4@oaic.gov.au"
-      },
-      {
-        "id": 6,
-        "name": "Karney Wylie",
-        "age": 22,
-        "email": "kwylie5@miitbeian.gov.cn"
-      },
-      {
-        "id": 7,
-        "name": "Cammi Pimbley",
-        "age": 63,
-        "email": "cpimbley6@nyu.edu"
-      },
-      {
-        "id": 8,
-        "name": "Gavra Manning",
-        "age": 43,
-        "email": "gmanning7@lycos.com"
-      },
-      {
-        "id": 9,
-        "name": "Zachary Seward",
-        "age": 45,
-        "email": "zseward8@oracle.com"
-      },
-      {
-        "id": 10,
-        "name": "Chucho Norssister",
-        "age": 20,
-        "email": "cnorssister9@mayoclinic.com"
-      }
+    "banner":[
+        {
+
+       "id":1,
+        "url1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ6xbDn2-IPF6JlKIwwEdkZKLc4YXK1lAFXg&usqp=CAU",
+        "url2":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSy6QM3OIjJVhfmjoevyHEMLKhqq19o9kJzA&usqp=CAU",
+        "url3":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbAwl788-cLfivE-1hsesz3ex1tNTRfHTaTQ&usqp=CAU",
+        "url4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIskW27AOPlETCcufRC948ER8qQtnFuB4HcA&usqp=CAU",
+        "url5":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpgRgyBx0HYoioPkoyRycxtir-J8vrV6B6dg&usqp=CAU"
+         }
+    ],
+
+
+    "banners":[
+        {
+            "id":1,
+            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTWgXIQYHeOPzlK3tarrfUabPw43WHZASn0g&usqp=CAU"
+
+        },
+        {
+            "id":2,
+            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0yB0g9PIFgmdkb_49sEz-Wz1-ZdEgZcDBFQ&usqp=CAU"
+        },
+        {
+            "id":3,
+            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZxZBvj9TN6Zu7mIN8SEuscYJCQ1hGHpFoUw&usqp=CAU"
+
+        },
+        {
+            "id":4,
+            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOTEBP6Wn3Lkz6yQl3cAxlrdHEIwUCqEArcw&usqp=CAU"
+        },
+        {
+            "id":5,
+            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu1rClsbPzDJrCzvHATpJKhFEQ1DdGCDyj7g&usqp=CAU"
+        },
+        {
+            "id":6,
+            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTygJsayRZzzQk2m7FZpvp2RW4KJOkBL9fwbA&usqp=CAU"
+        }
+    ],
+
+
+
+    "news":[
+        {
+            "id":1,
+            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEBdZ-FudHGQI5shPhlZ1wQnXVfjcZaAAPsQ&usqp=CAU",
+            "title":"The Best Air Fryer Recipe"
+        },
+        {
+            "id":2,
+            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtRPIxX_hWc1ix0yv0BzCdGIshG-fj1T2srg&usqp=CAU",
+
+            "title":"Sea Turtle Struck in Plastic Gets Help Right Time"
+        },
+        {
+            "id":3,
+            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzvnnP1vpGMdFdGbzvclEuCfGrDXEMWDErqg&usqp=CAU",
+            "title":"Cow who Thinks She''s A Dog  Follows Her New Dad's"
+        },
+        {
+            "id":4,
+            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk1-nk-jYaysldSsihdkZWO-qI9OgfhjIi1g&usqp=CAU",
+            "title":"Caesar Salad"
+        },
+        {
+            "id":5,
+            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk1-nk-jYaysldSsihdkZWO-qI9OgfhjIi1g&usqp=CAU",
+            "title":"Ladybug Wings"
+        }
+
+    ],
+    "moments":[
+        {
+            "id":1,
+            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNfjDNsT8tvrjNb2fLfaYidiRhi5bQqxECgQ&usqp=CAU",
+            "title":"Pine 3 Vegetarian Restaurent",
+            "add":"VyVian"
+
+        },
+        {
+            "id":2,
+            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpXnmmbhettyNRDShJ2YFBC7SWefMxM5_3ig&usqp=CAU",
+            "title":"Pure Heart Vegetarian",
+            "add":"William21"
+
+        },
+        {
+            "id":3,
+            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfD9CA6jIimy2114s1wBnUbNW-vWftGSWSxw&usqp=CAU",
+            "title":"MyTOWN Shopping Center",
+            "add":"FatJedi"
+
+        },
+        {
+            "id":4,
+            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vEk5Z0G7JAbYgqdq9EMXHcAlYGSybvPCmg&usqp=CAU",
+            "title":"Foods In The Woods",
+            "add":"VyVian"
+
+        },
+        {
+            "id":5,
+            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX2yc17O_r2j5-A4Qa-lvlEzxhKAAUfJ42yA&usqp=CAU",
+            "title":"Pure Heart Vegetarian",
+            "add":"Willian21"
+
+        }
+    ],
+    "restaurants":[
+        {
+            "id":1,
+            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYH3ghQ3QyRxVYUkq_-O2AigbgbrMRkNGD9w&usqp=CAU",
+            "title":"Vegetrain Fried Rice"
+           
+        },
+        {
+            "id":2,
+            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA0tHFPkFAtmbAs7pvleSVMYm1_RP2Z-vxxA&usqp=CAU",
+            "title":"Chickpea Salad $#&*"
+           
+        },
+        {
+            "id":3,
+            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeS6f652VuZxZVIzQLXsBIvGCaNsqg7zekmg&usqp=CAU",
+            "title":"Apple Wapple"
+           
+        },
+        {
+            "id":4,
+            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFMMcAtWv4xl-s75DAZDpa9dLTwZrBC9wIAQ&usqp=CAU",
+            "title":"Rice Burger"
+        },
+        {
+            "id":5,
+            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTInlQoofKuWSvf82WdJWALyTfRysSlGD4ANQ&usqp=CAU",
+            "title":"Taco Set"
+        }
+    ],
+
+
+
+    "hero":[
+        {
+            "id":1,
+            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Ron2lSMepiaw-iKA2_btnOggROzZgyYk3Q&usqp=CAU",
+            "title":"LeeHenry"
+        },
+        {
+            "id":2,
+            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Azd8sgCym8ThExwQOYZ0prAof4oES-pGCw&usqp=CAU",
+            "title":"TAyle Tong"
+        },
+        {
+            "id":3,
+            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA_VBoxO0YX1_-Js_px8yQQfJ4XlqtO7we0w&usqp=CAU",
+            "title":"Sanjeev Kapoor"
+        },
+        {
+            "id":4,
+            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRePNTHyxE1PPWnFxb-v-LRdI5kvh9ZuGuSg&usqp=CAU",
+            "title":"Eliane Chang"
+        },
+        {
+            "id":5,
+            "url":"https://qph.cf2.quoracdn.net/main-qimg-bac56f5b9f3bff55486e31ea40afa33b-lq",
+            "title":"vikas khanna"
+        }
+
+
     ]
-  }
+
+
+
+}
