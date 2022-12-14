@@ -1,68 +1,60 @@
 {
-    "banner":[
-        {
-
-       "id":1,
-        "url1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ6xbDn2-IPF6JlKIwwEdkZKLc4YXK1lAFXg&usqp=CAU",
-        "url2":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSy6QM3OIjJVhfmjoevyHEMLKhqq19o9kJzA&usqp=CAU",
-        "url3":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbAwl788-cLfivE-1hsesz3ex1tNTRfHTaTQ&usqp=CAU",
-        "url4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIskW27AOPlETCcufRC948ER8qQtnFuB4HcA&usqp=CAU",
-        "url5":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpgRgyBx0HYoioPkoyRycxtir-J8vrV6B6dg&usqp=CAU"
-         }
-    ],
-
 
     "banners":[
         {
             "id":1,
-            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTWgXIQYHeOPzlK3tarrfUabPw43WHZASn0g&usqp=CAU"
-
+            "url":"https://www.kindmeal.my/photos/deal/7/719-5142-m.jpg"
         },
         {
             "id":2,
-            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0yB0g9PIFgmdkb_49sEz-Wz1-ZdEgZcDBFQ&usqp=CAU"
+            "url":"https://www.kindmeal.my/photos/deal/7/711-4936-m.jpg"
         },
         {
             "id":3,
-            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZxZBvj9TN6Zu7mIN8SEuscYJCQ1hGHpFoUw&usqp=CAU"
+            "url":"https://www.kindmeal.my/photos/deal/7/725-5225-m.jpg"
 
         },
         {
             "id":4,
-            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOTEBP6Wn3Lkz6yQl3cAxlrdHEIwUCqEArcw&usqp=CAU"
+            "url":"https://www.kindmeal.my/photos/deal/2/271-519-m.jpg"
         },
         {
             "id":5,
-            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu1rClsbPzDJrCzvHATpJKhFEQ1DdGCDyj7g&usqp=CAU"
-        },
+            "url":"https://www.kindmeal.my/photos/deal/3/369-3697-m.jpg"
+       
+        
+        }
+        
+       
+    ],
+    "banner":[
         {
-            "id":6,
-            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTygJsayRZzzQk2m7FZpvp2RW4KJOkBL9fwbA&usqp=CAU"
+            "id":1,
+            
+                    "url":"https://www.kindmeal.my/photos/shop/5/546-c.jpg",
+                    "url2":"https://www.kindmeal.my/photos/deal/7/707-4819-m.jpg"
         }
     ],
-
-
-
     "news":[
         {
             "id":1,
-            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEBdZ-FudHGQI5shPhlZ1wQnXVfjcZaAAPsQ&usqp=CAU",
+            "url":"https://scontent-xsp1-1.xx.fbcdn.net/v/t15.5256-10/318915884_561186642153164_127441678623272126_n.jpg?stp=dst-jpg_s720x720&_nc_cat=103&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=eQegN0-Nn9AAX9jGU4_&_nc_ht=scontent-xsp1-1.xx&edm=ALdPpPkEAAAA&oh=00_AfCRTzl6bGDm7YP5c_2AtLDQ_snkJ_HKZTpWJOlGCfaA9Q&oe=639D2CDC",
             "title":"The Best Air Fryer Recipe"
         },
         {
             "id":2,
-            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtRPIxX_hWc1ix0yv0BzCdGIshG-fj1T2srg&usqp=CAU",
+            "url":"https://scontent-xsp1-2.xx.fbcdn.net/v/t15.5256-10/283214530_476021257630109_5388539080951558766_n.jpg?stp=dst-jpg_p720x720&_nc_cat=104&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=_cs7zbisYbwAX9On0jy&_nc_ht=scontent-xsp1-2.xx&edm=ALdPpPkEAAAA&oh=00_AfDcJtXhjwXbnCrJ6gcI83DTmTLurEr0QXgUjp8so5iU4g&oe=639C90CB",
 
             "title":"Sea Turtle Struck in Plastic Gets Help Right Time"
         },
         {
             "id":3,
-            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzvnnP1vpGMdFdGbzvclEuCfGrDXEMWDErqg&usqp=CAU",
+            "url":"https://scontent-xsp1-2.xx.fbcdn.net/v/t15.5256-10/317151508_2973337439627415_2451805833777691388_n.jpg?stp=dst-jpg_s720x720&_nc_cat=106&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=g5tLbTBraKMAX_Xv2n-&_nc_ht=scontent-xsp1-2.xx&edm=ALdPpPkEAAAA&oh=00_AfBWw1Gz1UUjB9Bv1povUYzATocRC62XIvYJbpilALg33w&oe=639CB4F9",
             "title":"Cow who Thinks She''s A Dog  Follows Her New Dad's"
         },
         {
             "id":4,
-            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk1-nk-jYaysldSsihdkZWO-qI9OgfhjIi1g&usqp=CAU",
+            "url":"https://scontent-xsp1-3.xx.fbcdn.net/v/t15.5256-10/316853946_5720659011314487_9087044682318505120_n.jpg?stp=dst-jpg_s720x720&_nc_cat=111&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=qe9O3Y0zCmYAX_30Sf5&_nc_ht=scontent-xsp1-3.xx&edm=ALdPpPkEAAAA&oh=00_AfD8wNjHjG2oNst7gy9wiXG0rhKxP1ZOe09zOoQUsITIiw&oe=639C9C4D",
             "title":"Caesar Salad"
         },
         {
@@ -139,9 +131,6 @@
             "title":"Taco Set"
         }
     ],
-
-
-
     "hero":[
         {
             "id":1,
@@ -170,8 +159,671 @@
         }
 
 
+    ],
+    "coupon":[
+        {
+            "id":1,
+            "url":"https://www.kindmeal.my/images/intro_deal.png",
+            "title":"Get Great Deals",
+            "titles":"Show our FREE digital coupons to instantly enjoy exciting deals"
+        },
+        {
+            "id":2,
+            "url":"https://www.kindmeal.my/images/intro_kindmoment.png",
+            "title":"Share KindMoments",
+            "titles":"Spread the joy by sharing your yummy dining moments"
+        },
+        {
+            "id":3,
+            "url":"https://www.kindmeal.my/images/intro_menu.png",
+            "title":"Discover Delicious Food",
+            "titles":"Explore the latest exquisite offerings and creative menus"
+        },
+        {
+            "id":4,
+            "url":"https://www.kindmeal.my/images/intro_friends.png",
+            "title":"Meet Food Lovers",
+            "titles":"Make new, compassionate friends and share great food tips"
+        }
+    ],
+    "meal":[
+        {
+            "id":1,
+            "url":"https://www.kindmeal.my/photos/deal/6/617-3503-l.jpg",
+            "title":"Love Earth Cafe" ,
+            "title2":"Kuala Lumpur Wilayah Persekutauan",
+            "description":"Indulge in a wide variety of delicious meat-free cuisines, and contribute to a better Earth and environment! Select from any of o..",
+            "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ4YgYGNqn9XKVuBthN1AAruYNKcCPVJD0yw&usqp=CAU",
+            "dis":"KindMeal Discount ",
+            "rate":"15% OFf",
+           "dis2": "Expiring Soon" ,
+           "rate2":"19 Hours"
+        },
+        {
+            "id":2,
+            "url":"https://www.kindmeal.my/photos/deal/6/692-4538-l.jpg",
+            "title":"Simple Good Food" ,
+            "title2":"Kuala Lumpur Wilayah Persekutauan",
+            "description":"Simply Good Food delights you with our passion for authentic ingredients, honest cooking, and an enjoyable atmosphere. We serve y..",
+            "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ4YgYGNqn9XKVuBthN1AAruYNKcCPVJD0yw&usqp=CAU",
+
+            "dis":"KindMeal Discount ",
+            "rate":"10% OFf",
+           "dis2": "Expiring Soon" ,
+           "rate2":"13 Days"
+           
+        },
+        {
+            "id":3,
+            "url":"https://www.kindmeal.my/photos/deal/7/727-5295-l.jpg",
+            "title":"Something Bakery Cafe" ,
+            "title2":"Cheras.Kuala Lumpur",
+            "description":"Enjoy our healthy homemade sandwich loaves and open toasts, all vegan and undergo natural yeast fermentation. The desserts served ...",
+            "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTKNd94dg18cM4G35Arf2Mb5dXwlBPXShlVg&usqp=CAU",
+
+            "dis":"KindMeal Discount ",
+            "rate":"10% OFf",
+           "dis2": "Expiring Soon" ,
+           "rate2":"19 Hours"
+           
+        },
+        {
+            "id":4,
+            "url":"https://www.kindmeal.my/photos/deal/5/506-2350-l.jpg",
+            "title":"Ring Zhi Vegetarian Restaurant" ,
+            "title2":"Kepong Kuala Lumpur",
+            "description":"This place brings back memories to those days where we would have such delicious authentic meals for festive eats. Select from AN..",
+            "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ4YgYGNqn9XKVuBthN1AAruYNKcCPVJD0yw&usqp=CAU",
+
+            "dis":"KindMeal Discount ",
+            "rate":"20% OFf",
+           "dis2": "Expiring Soon" ,
+           "rate2":"2 Days"
+           
+        },
+        {
+            "id":5,
+            "url":"https://www.kindmeal.my/photos/deal/7/726-5256-l.jpg",
+            "title":"All VegetrainMart" ,
+            "title2":"Kuala Lumpur Wilayah Persekutauan",
+            "description":"All Vegetarian Mart features a delicious range of Asian and Western cuisines, complemented with an assortment of quality beverages..",
+            "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTKNd94dg18cM4G35Arf2Mb5dXwlBPXShlVg&usqp=CAU",
+
+            "dis":"KindMeal Discount ",
+            "rate":"10% OFf",
+           "dis2": "Expiring Soon" ,
+           "rate2":"1 Day"
+           
+        },
+        {
+            "id":6,
+            "url":"https://www.kindmeal.my/photos/deal/3/383-1189-l.jpg",
+            "title":"Dining Bowl" ,
+            "title2":"Kuala Lumpur Wilayah Persekutauan",
+            "description":"Dine in this authentic cozy Chinese environment with any items from the menu, made with fresh and quality ingredients, in an envir..",
+            "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLtgjyEgHleLxHg4TQ_l3CPHM6Vzt24swB-w&usqp=CAU",
+
+            "dis":"KindMeal Discount ",
+            "rate":"20% OFf",
+           "dis2": "Expiring Soon" ,
+           "rate2":"11 Days"
+           
+        },
+        {
+            "id":7,
+            "url":"https://www.kindmeal.my/photos/deal/6/684-4446-l.jpg",
+            "title":"PC Studio Cafe" ,
+            "title2":"Petalling Jaya, Selangor",
+            "description":"We indulge you in a delightful meat-free Western culinary experience within a cozy ambience, while also offering plant-based cooki..",
+            "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ4YgYGNqn9XKVuBthN1AAruYNKcCPVJD0yw&usqp=CAU",
+
+            "dis":"KindMeal Discount ",
+            "rate":"15% OFf",
+           "dis2": "Expiring Soon" ,
+           "rate2":"19 Hours"
+           
+        },
+        {
+            "id":8,
+            "url":"https://www.kindmeal.my/photos/deal/4/467-2796-l.jpg",
+            "title":"PCLO Cafe" ,
+            "title2":"Kuala Lumpur Wilayah Persekutauan",
+            "description":"Think of Churros, think of PCLO Cafe! Each batch of eggless Churros is made with passion and from scratch in our kitchen. Which .. ",
+            "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ4YgYGNqn9XKVuBthN1AAruYNKcCPVJD0yw&usqp=CAU",
+            "dis":"KindMeal Discount ",
+            "rate":"20% OFf",
+           "dis2": "Expiring Soon" ,
+           "rate2":"6 Days"
+           
+        },
+        
+        {
+            "id":9,
+            "url":"https://www.kindmeal.my/photos/deal/4/498-2202-l.jpg",
+            "title":"Imperial Art Cottage" ,
+            "title2":" Sri Peting Kuala Lumpur",
+            "description":"Dine like an emperor on a variety of Japanese and Western meals! Feast on delightful items from our selected menu sections below:..",
+            "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ4YgYGNqn9XKVuBthN1AAruYNKcCPVJD0yw&usqp=CAU",
+
+            "dis":"KindMeal Discount ",
+            "rate":"10% OFf",
+            "dis2": "Expiring Soon" ,
+            "rate2":"10 Days"
+            
+            
+        },
+        {
+            "id":10,
+            "url":"https://www.kindmeal.my/photos/deal/6/682-4370-l.jpg",
+            "title":"Fullleaf Tea Store" ,
+            "title2":"Bandar SunWay, Selangor",
+            "description":"Chill out with our ready-to-drink Cold Brew Teas! Invigorate yourself with our healthy, refreshing selection of Pure and Smooth T..",
+            "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ4YgYGNqn9XKVuBthN1AAruYNKcCPVJD0yw&usqp=CAU",
+
+            "dis":"KindMeal Discount ",
+            "rate":"15% OFf",
+           "dis2": "Expiring Soon" ,
+           "rate2":"10 Days"
+           
+        },
+        {
+            "id":11,
+            "url":"https://www.kindmeal.my/photos/deal/5/529-2478-l.jpg",
+            "title":"Croutons Cafe ",
+            "title2":"Seri Kembangan , Selangor",
+             "description":"Croutons brings you a sumptuous variety of international cuisines. Indulge in any of the meat-free items from our menu below:... ",
+             "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRExgFEWpTqJXX9ClKIn7OXxdTdNeMy0delw&usqp=CAU",
+             "dis":"KindMeal Discount ",
+             "rate":"20$ Off",
+             "dis2":"Expiring Soon",
+             "rate2":" 19 Hours"       
+     },
+     {
+        "id":12,
+        "url":"https://www.kindmeal.my/photos/deal/7/700-4802-l.jpg",
+        "title":"Midas Cuisine",
+        "title2":"Banting , Selangor",
+         "description":"Let our Midas touch transform your meal into a gastronomic adventure. Indulge in healthy and delicious Chinese cuisine within our..         ",
+         "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRExgFEWpTqJXX9ClKIn7OXxdTdNeMy0delw&usqp=CAU",
+         "dis":"KindMeal Discount ",
+         "rate":"15% Off",
+         "dis2":"Expiring Soon",
+         "rate2":"19 Hours"       
+ },
+ {
+    "id":13,
+    "url":"https://www.kindmeal.my/photos/deal/4/457-2109-l.jpg",
+    "title":"The Black Cat Cafe",
+    "title2":"Kuala Lumpur Wilayah Persekutauan",
+     "description":"Western and Asian cuisine, all prepared in our humble kitchen with utmost passion and love. On Weekdays, select ANY items from ..",
+     "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRExgFEWpTqJXX9ClKIn7OXxdTdNeMy0delw&usqp=CAU",
+
+     "dis":"KindMeal Discount ",
+     "rate":"20% Off",
+     "dis2":"Expiring In",
+     "rate2":"13 Days"       
+},
+{
+    "id":14,
+    "url":"https://www.kindmeal.my/photos/deal/1/177-1118-l.jpg",
+    "title":"A Pie Thing",
+    "title2":"Petaling Jaya & 1 Branch",
+     "description":"When Pies conquer the world, you sit back, relax and have pies. Enjoy any delicious meat-free Savoury or Sweet Pies available in..",
+     "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRExgFEWpTqJXX9ClKIn7OXxdTdNeMy0delw&usqp=CAU",
+     "dis":"KindMeal Discount ",
+     "rate":"20% Off",
+     "dis2":"Expiring Soon",
+     "rate2":"19 Hours"       
+},
+{
+    "id":15,
+    "url":"https://www.kindmeal.my/photos/deal/5/574-3020-l.jpg",
+    "title":"Medal Mad Cafe ",
+    "title2":"Kepong Kuala Lumpur",
+     "description":"Enjoy a selection of Western cuisine, signature mocktails and desserts, especially their egg bubble waffle! Enjoy meat-free items..",
+     "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnb8L1TF4YVMA7z2bx1SaROibPKwe1A3--kBdAtcvW6yj3gF0Qr09C9bag5k9SuuP5KAE&usqp=CAU",
+     "dis":"KindMeal Discount ",
+     "rate":"20% Off",
+     "dis2":"Expiring In",
+     "rate2":"7 Days"       
+},
+{
+    "id":16,
+    "url":"https://www.kindmeal.my/photos/deal/6/621-3576-l.jpg",
+    "title":"Honest Bakery Cafe",
+    "title2":"Subang Jaya , Selangor",
+     "description":"Experience a delightful selection of creative meat-free meals from our menu: • Ala Carte Meat-Free Menu • Meat-Free Set Lunch ..",
+     "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnb8L1TF4YVMA7z2bx1SaROibPKwe1A3--kBdAtcvW6yj3gF0Qr09C9bag5k9SuuP5KAE&usqp=CAU",
+     "dis":"KindMeal Discount ",
+     "rate":"20% OFf",
+     "dis2":"Expiring Soon",
+     "rate2":"19 Hours"       
+},
+{
+    "id":17,
+    "url":"https://www.kindmeal.my/photos/deal/6/664-4296-l.jpg",
+    "title":"Soul Green",
+    "title2":"Perniagaan Kota Shahbandar melaka",
+     "description":"Revitalize your soul with our healthy, delicious local cuisine, straight from the food paradise of Melaka! Enjoy discounts off al..",
+     "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRExgFEWpTqJXX9ClKIn7OXxdTdNeMy0delw&usqp=CAU",
+     "dis":"KindMeal Discount ",
+     "rate":"10% Off",
+     "dis2":"Expiring In",
+     "rate2":"8 Days"       
+},
+{
+    "id":18,
+    "url":"https://www.kindmeal.my/photos/deal/7/712-5119-l.jpg",
+    "title":"Hijau",
+    "title2":"Kuala Lumpur Wilayah Persekutauan",
+     "description":"Indulge in Malay-Indo fusion cuisine, a plant-based comfort food and healthy pleasure! Hijau is your go-to, where you can embrace..",
+     "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRExgFEWpTqJXX9ClKIn7OXxdTdNeMy0delw&usqp=CAU",
+     "dis":"KindMeal Discount ",
+     "rate":"10% Off",
+     "dis2":"Expiring In",
+     "rate2":"9 Days"       
+},
+{
+    "id":19,
+    "url":"https://www.kindmeal.my/photos/deal/7/728-5305-l.jpg",
+    "title":"Small Town Girl",
+    "title2":"Petalling Jaya, Selangor",
+     "description":"A meat-free restaurant run by a small-town girl, serving local cuisine prepared and cooked with plenty of love. Experience our de..",
+     "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWcMGwfkvPKRppp3MQSkK9N1vb2kkdOypfOw&usqp=CAU",
+     "dis":"KindMeal Discount ",
+     "rate":"10% Off",
+     "dis2":"Expiring Soon",
+     "rate2":"1 Day"       
+},
+{
+    "id":20,
+    "url":"https://www.kindmeal.my/photos/deal/6/633-3874-l.jpg",
+    "title":"Love Veggie",
+    "title2":"Klang, Selangor",
+     "description":"Enjoy a cozy dining experience where we pamper you with a variety of healthy, exquisite and natural foods. Select from any of our..",
+     "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWcMGwfkvPKRppp3MQSkK9N1vb2kkdOypfOw&usqp=CAU",
+     "rate":"20% Off",
+     "dis2":"Expiring Soon",
+     "rate2":"19 Hours"       
+},
+{
+    "id":21,
+    "url":"https://www.kindmeal.my/photos/deal/6/681-4353-l.jpg",
+    "title":"Berjaya Cafe",
+    "title2":"Kuala Lumpur Wilayah Persekutauan",
+     "description":"Berjaya Cafe delights you with opulence, style and taste from the best chefs in town. Savor only the best in gastronomic experien..",
+     "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ4YgYGNqn9XKVuBthN1AAruYNKcCPVJD0yw&usqp=CAU",
+     "dis":"KindMeal Discount ",
+     "rate":"10% OFf",
+     "dis2":"Expiring In",
+     "rate2":"6 Days"       
+},
+{
+    "id":22,
+    "url":"https://www.kindmeal.my/photos/deal/1/177-1118-l.jpg",
+    "title":"A Pie Thing ",
+    "title2":"Petaling Jaya & 1 Branch",
+     "description":"When Pies conquer the world, you sit back, relax and have pies. Enjoy any delicious meat-free Savoury or Sweet Pies available in..",
+     "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ4YgYGNqn9XKVuBthN1AAruYNKcCPVJD0yw&usqp=CAU",
+     "dis":"KindMeal Discount ",
+     "rate":"20% Off",
+     "dis2":"Expiring Soon",
+     "rate2":"10 Hours"       
+},
+{
+    "id":23,
+    "url":"https://www.kindmeal.my/photos/deal/7/724-5208-l.jpg",
+    "title":"BINGS",
+    "title2":"Banting, Selangor",
+     "description":"Indulge in our perfectly decadent desserts of Bingsu, toasts, waffles and homemade pastries, and complement them with quality Arab..",
+     "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2gesWEJcclNhWvP7lNx_FN0Db4UmzLN1zQQ&usqp=CAU",
+     "dis":"KindMeal Discount ",
+     "rate":"10% Off",
+     "dis2":"Expiring In",
+     "rate2":"7 Days"       
+},
+{
+    "id":24,
+    "url":"https://www.kindmeal.my/photos/deal/6/664-4296-l.jpg",
+    "title":"Soul Green",
+    "title2":"Perniagaan Kota Shahbandar melaka",
+     "description":"Revitalize your soul with our healthy, delicious local cuisine, straight from the food paradise of Melaka! Enjoy discounts off al..",
+     "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ4YgYGNqn9XKVuBthN1AAruYNKcCPVJD0yw&usqp=CAU",
+     "dis":"KindMeal Discount ",
+     "rate":"10% Off",
+     "dis2":"Expiring In",
+     "rate2":"8 Days"       
+},
+{
+    "id":25,
+    "url":"https://www.kindmeal.my/photos/deal/4/498-2202-l.jpg",
+    "title":"Imperial Art Cottage",
+    "title2":" Sri Peting Kuala Lumpur",
+     "description":"Dine like an emperor on a variety of Japanese and Western meals! Feast on delightful items from our selected menu sections below:..",
+     "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRExgFEWpTqJXX9ClKIn7OXxdTdNeMy0delw&usqp=CAU",
+     "dis":"KindMeal Discount ",
+     "rate":"10% Off",
+     "dis2":"Expiring In",
+     "rate2":"10 days"       
+},
+{
+    "id":26,
+    "url":"https://www.kindmeal.my/photos/deal/7/704-4734-l.jpg",
+    "title":"Negative 120 Degree",
+    "title2":"Bangsar Kuala Lumpur",
+     "description":"Indulge in our rich, flavorful selection of vegan ice-creams, crafted with healthy, natural ingredients. Enjoy any ice-creams fro..",
+     "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRExgFEWpTqJXX9ClKIn7OXxdTdNeMy0delw&usqp=CAU",
+     "dis":"KindMeal Discount ",
+     "rate":"15% off",
+     "dis2":"Expiring Soon",
+     "rate2":"2 Days"       
+},
+{
+    "id":27,
+    "url":"https://www.kindmeal.my/photos/deal/6/679-4332-l.jpg",
+    "title":"Garden Vegetarian Cafe",
+    "title2":"Shah Alam Selangor",
+     "description":"Relax with your favorite Asian & Western comfort food, crafted with quality ingredients and a creative touch. Enjoy discount on a..",
+     "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlt16v1t1a8dUvr_5RDdjvPcazociarGHtDA&usqp=CAU",
+     "dis":"KindMeal Discount ",
+     "rate":"15% Off",
+     "dis2":"Expiring In",
+     "rate2":"7 Days"       
+},
+{
+    "id":28,
+    "url":"https://www.kindmeal.my/photos/deal/6/665-4120-l.jpg",
+    "title":"The Link Cafe",
+    "title2":"Kuala Lumpur Wilayah Persekutauan",
+     "description":"Let us strengthen the connection between your body and soul through our deliciously-crafted meals, while nourishing the connection..",
+     "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRExgFEWpTqJXX9ClKIn7OXxdTdNeMy0delw&usqp=CAU",
+     "dis":"KindMeal Discount ",
+     "rate":"15% Off",
+     "dis2":"Expiring Soon",
+     "rate2":"10 Hours"       
+},
+{
+    "id":29,
+    "url":"https://www.kindmeal.my/photos/deal/6/684-4446-l.jpg",
+    "title":"PC Studio Cafe",
+    "title2":"Petalling Jaya, Selangor",
+     "description":"We indulge you in a delightful meat-free Western culinary experience within a cozy ambience, while also offering plant-based cooki..",
+     "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRExgFEWpTqJXX9ClKIn7OXxdTdNeMy0delw&usqp=CAU",
+     "dis":"KindMeal Discount ",
+     "rate":"15% Off",
+     "dis2":"Expiring Soon",
+     "rate2":"10 Hours"       
+},
+{
+    "id":30,
+    "url":"https://www.kindmeal.my/photos/deal/6/671-4245-l.jpg",
+    "title":"Er Lou Cafe",
+    "title2":"Petalling Jaya, Selangor",
+    "description":"Indulge yourself in Sarawak heritage cuisine, featuring Er Lou's house-rolled smooth noodles with a choice of thick or thin strand..",
+    "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRExgFEWpTqJXX9ClKIn7OXxdTdNeMy0delw&usqp=CAU",
+     "dis":"KindMeal Discount ",
+     "rate":"15% Off",
+     "dis2":"Expiring In",
+     "rate2":"7 Days"       
+},
+{
+    "id":31,
+    "url":"https://www.kindmeal.my/photos/deal/5/591-3151-l.jpg",
+    "title":"Vegipai Cafe",
+    "title2":"Taman Desa ,off Jln Kelang La...",
+    "description":"Indulge in a healthy and tasty variety of Oriental and Western delicacies, prepared with quality ingredients! Enjoy any items fro..",
+    "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRExgFEWpTqJXX9ClKIn7OXxdTdNeMy0delw&usqp=CAU",
+    "dis":"KindMeal Discount ",
+    "rate":"20% Off",
+    "dis2":"Expiring In",
+    "rate2":"10 Days"
+},
+{
+    "id":32,
+    "url":"https://www.kindmeal.my/photos/deal/6/621-3576-l.jpg",
+    "title":"Honest Bakery Cafe",
+    "title2":"Subang Jaya, Selangor",
+    "description":"Experience a delightful selection of creative meat-free meals from our menu: • Ala Carte Meat-Free Menu • Meat-Free Set Lunch ..    ",
+    "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRExgFEWpTqJXX9ClKIn7OXxdTdNeMy0delw&usqp=CAU",
+    "dis":"KindMeal Discount ",
+    "rate":" 20% Off",
+    "dis2":"Expiring Soon",
+    "rate2":"5 Hours"
+},
+{
+    "id":33,
+    "url":"https://www.kindmeal.my/photos/deal/7/701-4904-l.jpg",
+    "title":"Moment Of Joy ",
+    "title2":"Cheras & 1 branch",
+    "description":"We are committed to sustainability and plant-based diet. When food is melting into our mouths with an Unami flavor, life becomes ..",
+    "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRExgFEWpTqJXX9ClKIn7OXxdTdNeMy0delw&usqp=CAU",
+    "dis":"KindMeal Discount ",
+    "rate":" 10% Off",
+    "dis2":"Expiring In",
+    "rate2":"7 Days"
+},
+{
+    "id":34,
+    "url":"https://www.kindmeal.my/photos/deal/6/658-4144-l.jpg",
+    "title":"VegaThai",
+    "title2":"Melaka",
+    "description":"Feast on our contemporary Thai vegan delights, a fusion of central and northeastern Thai cuisines with rich and exquisite flavors...    ",
+    "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRExgFEWpTqJXX9ClKIn7OXxdTdNeMy0delw&usqp=CAU",
+    "dis":"KindMeal Discount ",
+    "rate":" 15% Off",
+    "dis2":"Expiring In",
+    "rate2":"7 Days"
+},
+{
+    "id":35,
+    "url":"https://www.kindmeal.my/photos/deal/5/579-4524-l.jpg",
+    "title":"Lush Cafe",
+    "title2":"Shah Alam Selangor",
+    "description":"Serving deliciously creative comfort food while you relax in our cozy environment. Select any meat-free items from our menu, incl..",
+    "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRExgFEWpTqJXX9ClKIn7OXxdTdNeMy0delw&usqp=CAU",
+    "dis":"KindMeal Discount ",
+    "rate":" 20% Off",
+    "dis2":"Expiring In",
+    "rate2":"4 Days"
+},
+{
+    "id":36,
+    "url":"https://www.kindmeal.my/photos/deal/6/628-4921-l.jpg",
+    "title":"Sushi kitchen Kota Damansara",
+    "title2":"Petalling Jaya, Selangor",
+    "description":"Enjoy creative, delicious and healthy fusion Japanese cuisine at Sushi Kitchen! Meticulously prepared with fresh, quality ingredi..",
+    "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRExgFEWpTqJXX9ClKIn7OXxdTdNeMy0delw&usqp=CAU",
+    "dis":"KindMeal Discount ",
+    "rate":" 15% Off",
+    "dis2":"Expiring In",
+    "rate2":"13 Days"
+},
+{
+    "id":37,
+    "url":"https://www.kindmeal.my/photos/deal/5/529-2478-l.jpg",
+    "title":"Croutons Cafe ",
+    "title2":"Seri Kembangan , Selangor",
+     "description":"Croutons brings you a sumptuous variety of international cuisines. Indulge in any of the meat-free items from our menu below:... ",
+     "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRExgFEWpTqJXX9ClKIn7OXxdTdNeMy0delw&usqp=CAU",
+     "dis":"KindMeal Discount ",
+     "rate":"20$ Off",
+     "dis2":"Expiring Soon",
+     "rate2":" 19 Hours"       
+},
+{
+"id":38,
+"url":"https://www.kindmeal.my/photos/deal/7/700-4802-l.jpg",
+"title":"Midas Cuisine",
+"title2":"Banting , Selangor",
+ "description":"Let our Midas touch transform your meal into a gastronomic adventure. Indulge in healthy and delicious Chinese cuisine within our..         ",
+ "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRExgFEWpTqJXX9ClKIn7OXxdTdNeMy0delw&usqp=CAU",
+ "dis":"KindMeal Discount ",
+ "rate":"15% Off",
+ "dis2":"Expiring Soon",
+ "rate2":"19 Hours"       
+},
+{
+"id":39,
+"url":"https://www.kindmeal.my/photos/deal/4/457-2109-l.jpg",
+"title":"The Black Cat Cafe",
+"title2":"Kuala Lumpur Wilayah Persekutauan",
+"description":"Western and Asian cuisine, all prepared in our humble kitchen with utmost passion and love. On Weekdays, select ANY items from ..",
+"rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRExgFEWpTqJXX9ClKIn7OXxdTdNeMy0delw&usqp=CAU",
+
+"dis":"KindMeal Discount ",
+"rate":"20% Off",
+"dis2":"Expiring In",
+"rate2":"13 Days"       
+},
+{
+"id":40,
+"url":"https://www.kindmeal.my/photos/deal/1/177-1118-l.jpg",
+"title":"A Pie Thing",
+"title2":"Petaling Jaya & 1 Branch",
+"description":"When Pies conquer the world, you sit back, relax and have pies. Enjoy any delicious meat-free Savoury or Sweet Pies available in..",
+"rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRExgFEWpTqJXX9ClKIn7OXxdTdNeMy0delw&usqp=CAU",
+"dis":"KindMeal Discount ",
+"rate":"20% Off",
+"dis2":"Expiring Soon",
+"rate2":"19 Hours"       
+},
+{
+"id":41,
+"url":"https://www.kindmeal.my/photos/deal/5/574-3020-l.jpg",
+"title":"Medal Mad Cafe ",
+"title2":"Kepong Kuala Lumpur",
+"description":"Enjoy a selection of Western cuisine, signature mocktails and desserts, especially their egg bubble waffle! Enjoy meat-free items..",
+"rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnb8L1TF4YVMA7z2bx1SaROibPKwe1A3--kBdAtcvW6yj3gF0Qr09C9bag5k9SuuP5KAE&usqp=CAU",
+"dis":"KindMeal Discount ",
+"rate":"20% Off",
+"dis2":"Expiring In",
+"rate2":"7 Days"       
+},
+{
+"id":42,
+"url":"https://www.kindmeal.my/photos/deal/6/621-3576-l.jpg",
+"title":"Honest Bakery Cafe",
+"title2":"Subang Jaya , Selangor",
+"description":"Experience a delightful selection of creative meat-free meals from our menu: • Ala Carte Meat-Free Menu • Meat-Free Set Lunch ..",
+"rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnb8L1TF4YVMA7z2bx1SaROibPKwe1A3--kBdAtcvW6yj3gF0Qr09C9bag5k9SuuP5KAE&usqp=CAU",
+"dis":"KindMeal Discount ",
+"rate":"20% OFf",
+"dis2":"Expiring Soon",
+"rate2":"19 Hours"       
+},
+{
+"id":43,
+"url":"https://www.kindmeal.my/photos/deal/6/664-4296-l.jpg",
+"title":"Soul Green",
+"title2":"Perniagaan Kota Shahbandar melaka",
+"description":"Revitalize your soul with our healthy, delicious local cuisine, straight from the food paradise of Melaka! Enjoy discounts off al..",
+"rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRExgFEWpTqJXX9ClKIn7OXxdTdNeMy0delw&usqp=CAU",
+"dis":"KindMeal Discount ",
+"rate":"10% Off",
+"dis2":"Expiring In",
+"rate2":"8 Days"       
+},
+{
+"id":44,
+"url":"https://www.kindmeal.my/photos/deal/7/712-5119-l.jpg",
+"title":"Hijau",
+"title2":"Kuala Lumpur Wilayah Persekutauan",
+"description":"Indulge in Malay-Indo fusion cuisine, a plant-based comfort food and healthy pleasure! Hijau is your go-to, where you can embrace..",
+"rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRExgFEWpTqJXX9ClKIn7OXxdTdNeMy0delw&usqp=CAU",
+"dis":"KindMeal Discount ",
+"rate":"10% Off",
+"dis2":"Expiring In",
+"rate2":"9 Days"       
+},
+{
+"id":44,
+"url":"https://www.kindmeal.my/photos/deal/7/728-5305-l.jpg",
+"title":"Small Town Girl",
+"title2":"Petalling Jaya, Selangor",
+"description":"A meat-free restaurant run by a small-town girl, serving local cuisine prepared and cooked with plenty of love. Experience our de..",
+"rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWcMGwfkvPKRppp3MQSkK9N1vb2kkdOypfOw&usqp=CAU",
+"dis":"KindMeal Discount ",
+"rate":"10% Off",
+"dis2":"Expiring Soon",
+"rate2":"1 Day"       
+},
+{
+"id":45,
+"url":"https://www.kindmeal.my/photos/deal/6/633-3874-l.jpg",
+"title":"Love Veggie",
+"title2":"Klang, Selangor",
+"description":"Enjoy a cozy dining experience where we pamper you with a variety of healthy, exquisite and natural foods. Select from any of our..",
+"rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWcMGwfkvPKRppp3MQSkK9N1vb2kkdOypfOw&usqp=CAU",
+"rate":"20% Off",
+"dis2":"Expiring Soon",
+"rate2":"19 Hours"       
+},
+{
+    "id":46,
+    "url":"https://www.kindmeal.my/photos/deal/5/591-3151-l.jpg",
+    "title":"Vegipai Cafe",
+    "title2":"Taman Desa ,off Jln Kelang La...",
+    "description":"Indulge in a healthy and tasty variety of Oriental and Western delicacies, prepared with quality ingredients! Enjoy any items fro..",
+    "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRExgFEWpTqJXX9ClKIn7OXxdTdNeMy0delw&usqp=CAU",
+    "dis":"KindMeal Discount ",
+    "rate":"20% Off",
+    "dis2":"Expiring In",
+    "rate2":"10 Days"
+},
+{
+    "id":47,
+    "url":"https://www.kindmeal.my/photos/deal/6/621-3576-l.jpg",
+    "title":"Honest Bakery Cafe",
+    "title2":"Subang Jaya, Selangor",
+    "description":"Experience a delightful selection of creative meat-free meals from our menu: • Ala Carte Meat-Free Menu • Meat-Free Set Lunch ..    ",
+    "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRExgFEWpTqJXX9ClKIn7OXxdTdNeMy0delw&usqp=CAU",
+    "dis":"KindMeal Discount ",
+    "rate":" 20% Off",
+    "dis2":"Expiring Soon",
+    "rate2":"5 Hours"
+},
+{
+    "id":48,
+    "url":"https://www.kindmeal.my/photos/deal/7/701-4904-l.jpg",
+    "title":"Moment Of Joy ",
+    "title2":"Cheras & 1 branch",
+    "description":"We are committed to sustainability and plant-based diet. When food is melting into our mouths with an Unami flavor, life becomes ..",
+    "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRExgFEWpTqJXX9ClKIn7OXxdTdNeMy0delw&usqp=CAU",
+    "dis":"KindMeal Discount ",
+    "rate":" 10% Off",
+    "dis2":"Expiring In",
+    "rate2":"7 Days"
+},
+{
+    "id":49,
+    "url":"https://www.kindmeal.my/photos/deal/6/658-4144-l.jpg",
+    "title":"VegaThai",
+    "title2":"Melaka",
+    "description":"Feast on our contemporary Thai vegan delights, a fusion of central and northeastern Thai cuisines with rich and exquisite flavors...    ",
+    "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRExgFEWpTqJXX9ClKIn7OXxdTdNeMy0delw&usqp=CAU",
+    "dis":"KindMeal Discount ",
+    "rate":" 15% Off",
+    "dis2":"Expiring In",
+    "rate2":"7 Days"
+},
+{
+    "id":50,
+    "url":"https://www.kindmeal.my/photos/deal/5/579-4524-l.jpg",
+    "title":"Lush Cafe",
+    "title2":"Shah Alam Selangor",
+    "description":"Serving deliciously creative comfort food while you relax in our cozy environment. Select any meat-free items from our menu, incl..",
+    "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRExgFEWpTqJXX9ClKIn7OXxdTdNeMy0delw&usqp=CAU",
+    "dis":"KindMeal Discount ",
+    "rate":" 20% Off",
+    "dis2":"Expiring In",
+    "rate2":"4 Days"
+}
+
+
+
+
     ]
-
-
+    
+   
 
 }
