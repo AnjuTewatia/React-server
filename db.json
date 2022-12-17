@@ -38,24 +38,24 @@
     "news":[
         {
             "id":1,
-            "url":"https://scontent-xsp1-1.xx.fbcdn.net/v/t15.5256-10/318915884_561186642153164_127441678623272126_n.jpg?stp=dst-jpg_s720x720&_nc_cat=103&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=eQegN0-Nn9AAX9jGU4_&_nc_ht=scontent-xsp1-1.xx&edm=ALdPpPkEAAAA&oh=00_AfCRTzl6bGDm7YP5c_2AtLDQ_snkJ_HKZTpWJOlGCfaA9Q&oe=639D2CDC",
-            "title":"The Best Air Fryer Recipe"
+            "url":"https://www.kindmeal.my/photos/article/20/20346-l.jpg",
+            "title":"Amazing Wildlife Wins"
         },
         {
             "id":2,
-            "url":"https://scontent-xsp1-2.xx.fbcdn.net/v/t15.5256-10/283214530_476021257630109_5388539080951558766_n.jpg?stp=dst-jpg_p720x720&_nc_cat=104&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=_cs7zbisYbwAX9On0jy&_nc_ht=scontent-xsp1-2.xx&edm=ALdPpPkEAAAA&oh=00_AfDcJtXhjwXbnCrJ6gcI83DTmTLurEr0QXgUjp8so5iU4g&oe=639C90CB",
+            "url":"https://www.kindmeal.my/photos/article/20/20350-l.jpg",
 
-            "title":"Sea Turtle Struck in Plastic Gets Help Right Time"
+            "title":"Farm Animals"
         },
         {
             "id":3,
-            "url":"https://scontent-xsp1-2.xx.fbcdn.net/v/t15.5256-10/317151508_2973337439627415_2451805833777691388_n.jpg?stp=dst-jpg_s720x720&_nc_cat=106&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=g5tLbTBraKMAX_Xv2n-&_nc_ht=scontent-xsp1-2.xx&edm=ALdPpPkEAAAA&oh=00_AfBWw1Gz1UUjB9Bv1povUYzATocRC62XIvYJbpilALg33w&oe=639CB4F9",
-            "title":"Cow who Thinks She''s A Dog  Follows Her New Dad's"
+            "url":"https://www.kindmeal.my/photos/article/20/20333-l.jpg",
+            "title":"Sick Baby Cow"
         },
         {
             "id":4,
-            "url":"https://scontent-xsp1-3.xx.fbcdn.net/v/t15.5256-10/316853946_5720659011314487_9087044682318505120_n.jpg?stp=dst-jpg_s720x720&_nc_cat=111&ccb=1-7&_nc_sid=ad6a45&_nc_ohc=qe9O3Y0zCmYAX_30Sf5&_nc_ht=scontent-xsp1-3.xx&edm=ALdPpPkEAAAA&oh=00_AfD8wNjHjG2oNst7gy9wiXG0rhKxP1ZOe09zOoQUsITIiw&oe=639C9C4D",
-            "title":"Caesar Salad"
+            "url":"https://www.kindmeal.my/photos/article/20/20330-l.jpg",
+            "title":"The Best Air Fryre"
         },
         {
             "id":5,
@@ -104,26 +104,26 @@
     "restaurants":[
         {
             "id":1,
-            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYH3ghQ3QyRxVYUkq_-O2AigbgbrMRkNGD9w&usqp=CAU",
-            "title":"Vegetrain Fried Rice"
+            "url":"https://www.kindmeal.my/photos/moment/24/24773-48229-l.jpg",
+            "title":"The Best Air Fryre"
            
         },
         {
             "id":2,
-            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA0tHFPkFAtmbAs7pvleSVMYm1_RP2Z-vxxA&usqp=CAU",
-            "title":"Chickpea Salad $#&*"
+            "url":"https://www.kindmeal.my/photos/item/0/549-7471-l.jpg",
+            "title":"Nasi Lemak"
            
         },
         {
             "id":3,
-            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeS6f652VuZxZVIzQLXsBIvGCaNsqg7zekmg&usqp=CAU",
-            "title":"Apple Wapple"
+            "url":"https://www.kindmeal.my/photos/item/0/545-7429-l.jpg",
+            "title":"Kyoto Pork Ribs Ramen"
            
         },
         {
             "id":4,
-            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFMMcAtWv4xl-s75DAZDpa9dLTwZrBC9wIAQ&usqp=CAU",
-            "title":"Rice Burger"
+            "url":"https://www.kindmeal.my/photos/item/0/562-7759-l.jpg",
+            "title":"Charcoal Steak Burger"
         },
         {
             "id":5,
@@ -134,7 +134,7 @@
     "hero":[
         {
             "id":1,
-            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Ron2lSMepiaw-iKA2_btnOggROzZgyYk3Q&usqp=CAU",
+            "url":"https://www.kindmeal.my/photos/item/0/486-5993-l.jpg",
             "title":"LeeHenry"
         },
         {
@@ -817,13 +817,223 @@
     "rate":" 20% Off",
     "dis2":"Expiring In",
     "rate2":"4 Days"
-}
+},
+{
+    "id":51,
+    "url":"https://www.kindmeal.my/photos/deal/7/700-4802-l.jpg",
+    "title":"Midas Cuisine",
+    "title2":"Banting , Selangor",
+     "description":"Let our Midas touch transform your meal into a gastronomic adventure. Indulge in healthy and delicious Chinese cuisine within our..         ",
+     "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRExgFEWpTqJXX9ClKIn7OXxdTdNeMy0delw&usqp=CAU",
+     "dis":"KindMeal Discount ",
+     "rate":"15% Off",
+     "dis2":"Expiring Soon",
+     "rate2":"19 Hours"       
+    },
+    {
+    "id":52,
+    "url":"https://www.kindmeal.my/photos/deal/4/457-2109-l.jpg",
+    "title":"The Black Cat Cafe",
+    "title2":"Kuala Lumpur Wilayah Persekutauan",
+    "description":"Western and Asian cuisine, all prepared in our humble kitchen with utmost passion and love. On Weekdays, select ANY items from ..",
+    "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRExgFEWpTqJXX9ClKIn7OXxdTdNeMy0delw&usqp=CAU",
+    
+    "dis":"KindMeal Discount ",
+    "rate":"20% Off",
+    "dis2":"Expiring In",
+    "rate2":"13 Days"       
+    },
+    {
+    "id":53,
+    "url":"https://www.kindmeal.my/photos/deal/1/177-1118-l.jpg",
+    "title":"A Pie Thing",
+    "title2":"Petaling Jaya & 1 Branch",
+    "description":"When Pies conquer the world, you sit back, relax and have pies. Enjoy any delicious meat-free Savoury or Sweet Pies available in..",
+    "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRExgFEWpTqJXX9ClKIn7OXxdTdNeMy0delw&usqp=CAU",
+    "dis":"KindMeal Discount ",
+    "rate":"20% Off",
+    "dis2":"Expiring Soon",
+    "rate2":"19 Hours"       
+    },
+    {
+    "id":54,
+    "url":"https://www.kindmeal.my/photos/deal/5/574-3020-l.jpg",
+    "title":"Medal Mad Cafe ",
+    "title2":"Kepong Kuala Lumpur",
+    "description":"Enjoy a selection of Western cuisine, signature mocktails and desserts, especially their egg bubble waffle! Enjoy meat-free items..",
+    "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnb8L1TF4YVMA7z2bx1SaROibPKwe1A3--kBdAtcvW6yj3gF0Qr09C9bag5k9SuuP5KAE&usqp=CAU",
+    "dis":"KindMeal Discount ",
+    "rate":"20% Off",
+    "dis2":"Expiring In",
+    "rate2":"7 Days"       
+    },
+    {
+    "id":55,
+    "url":"https://www.kindmeal.my/photos/deal/6/621-3576-l.jpg",
+    "title":"Honest Bakery Cafe",
+    "title2":"Subang Jaya , Selangor",
+    "description":"Experience a delightful selection of creative meat-free meals from our menu: • Ala Carte Meat-Free Menu • Meat-Free Set Lunch ..",
+    "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnb8L1TF4YVMA7z2bx1SaROibPKwe1A3--kBdAtcvW6yj3gF0Qr09C9bag5k9SuuP5KAE&usqp=CAU",
+    "dis":"KindMeal Discount ",
+    "rate":"20% OFf",
+    "dis2":"Expiring Soon",
+    "rate2":"19 Hours"       
+    },
+    {
+    "id":56,
+    "url":"https://www.kindmeal.my/photos/deal/6/664-4296-l.jpg",
+    "title":"Soul Green",
+    "title2":"Perniagaan Kota Shahbandar melaka",
+    "description":"Revitalize your soul with our healthy, delicious local cuisine, straight from the food paradise of Melaka! Enjoy discounts off al..",
+    "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRExgFEWpTqJXX9ClKIn7OXxdTdNeMy0delw&usqp=CAU",
+    "dis":"KindMeal Discount ",
+    "rate":"10% Off",
+    "dis2":"Expiring In",
+    "rate2":"8 Days"       
+    },
+    {
+    "id":57,
+    "url":"https://www.kindmeal.my/photos/deal/7/712-5119-l.jpg",
+    "title":"Hijau",
+    "title2":"Kuala Lumpur Wilayah Persekutauan",
+    "description":"Indulge in Malay-Indo fusion cuisine, a plant-based comfort food and healthy pleasure! Hijau is your go-to, where you can embrace..",
+    "rating":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRExgFEWpTqJXX9ClKIn7OXxdTdNeMy0delw&usqp=CAU",
+    "dis":"KindMeal Discount ",
+    "rate":"10% Off",
+    "dis2":"Expiring In",
+    "rate2":"9 Days"       
+    }
+
+    ]  ,
+    "foodmenu":[
+    {
+        
+    "id":1,
+    "url":"https://www.kindmeal.my/photos/item/0/604-8971-m.jpg",
+    "title":"Stir Fried nyonya Meehoon"
+        },
+        {
+            "id":2,
+            "url":"https://www.kindmeal.my/photos/item/0/604-8969-m.jpg",
+            "title":"Special Curry & Noodles"
+        },
+        {
+            "id":3,
+            "url":"https://www.kindmeal.my/photos/item/0/604-8962-m.jpg",
+            "title":"Pangkor Laksa"
+        },
+        {
+            "id":4,
+            "url":"https://www.kindmeal.my/photos/item/0/604-8959-m.jpg",
+            "title":"Hong Kong Fried"
+        },
+        {
+            "id":5,
+            "url":"https://www.kindmeal.my/photos/item/0/604-8950-m.jpg",
+            "title":"Curry Mixed"
+        },
+        {
+            "id":6,
+            "url":"https://www.kindmeal.my/photos/item/0/604-9069-m.jpg",
+            "title":"Creamy Mushroom"
+        },
+        {
+            "id":7,
+            "url":"https://www.kindmeal.my/photos/item/0/604-8958-m.jpg",
+            "title":"Pumpkin Tofu"
+        },
+        {
+            "id":8,
+            "url":"https://www.kindmeal.my/photos/item/0/604-8957-m.jpg",
+            "title":"Herbal Coconut Soup"
+        },
+        {
+            "id":9,
+            "url":"https://www.kindmeal.my/photos/item/0/604-9076-m.jpg",
+            "title":"Thai Style Spicy & Sour VFish"
+        },
+        {
+            "id":10,
+            "url":"https://www.kindmeal.my/photos/item/0/604-8994-m.jpg",
+            "title":"Special Sambal Rice"
+        },
+        {
+            "id":11,
+            "url":"https://www.kindmeal.my/photos/item/0/604-8952-m.jpg",
+            "title":"Fruit Tea"
+        },
+        {
+            "id":12,
+            "url":"https://www.kindmeal.my/photos/item/0/604-8947-m.jpg",
+            "title":"Butterfly Pea Tea"
+        },
+        {
+            "id":13,
+            "url":"https://www.kindmeal.my/photos/item/0/604-8967-m.jpg",
+            "title":"Signature Nasi Lemak"
+        },
+        {
+            "id":14,
+            "url":"https://www.kindmeal.my/photos/item/0/604-8965-m.jpg",
+            "title":"Salted Egg Mushroom"
+        },
+        {
+            "id":15,
+            "url":"https://www.kindmeal.my/photos/item/0/604-8972-m.jpg",
+            "title":"Strawberry Juice"
+        },
+        {
+            "id":16,
+            "url":"https://www.kindmeal.my/photos/item/0/604-8964-m.jpg",
+            "title":"Passion Fruit Juice"
+        },
+        {
+            "id":17,
+            "url":"https://www.kindmeal.my/photos/item/0/604-8946-m.jpg",
+            "title":"Butter & kaya Bun"
+        },
+        {
+            "id":18,
+            "url":"https://www.kindmeal.my/photos/item/0/604-8956-m.jpg",
+            "title":"Half-boiled Kampung Egg"
+        }
 
 
-
+    ],
+    "restaruntsingle":[
+        {
+            "id":1,
+            "url":"https://www.kindmeal.my/photos/moment/21/21568-38294-s.jpg",
+            "title":"A delicous KindMoment",
+            "title2":"LeeShinMan"
+        },
+        {
+            "id":2,
+            "url":"https://www.kindmeal.my/photos/moment/3/3899-3756-s.jpg",
+            "title":"A Delicious KindMoment",
+            "title2": "CandyDolly"
+        
+        },
+       { 
+        "id":3,
+        "url":"https://www.kindmeal.my/photos/moment/11/11377-13433-s.jpg",
+        "title":"MediFoods Nutritious Meals",
+        "title2":"CwenYeoHxiwen "
+    },
+    {
+        "id":4,
+        "url":"https://www.kindmeal.my/photos/moment/23/23968-45569-s.jpg",
+        "title":"A Delicious KindMoment",
+        "title2":"PersileLim"
+    },
+    {
+        "id":5,
+        "url":"https://www.kindmeal.my/photos/moment/24/24124-46085-s.jpg",
+        "title":"#@%&$$$**",
+        "title2":"EngenWong"
+        }
 
     ]
     
-   
-
+  
 }
